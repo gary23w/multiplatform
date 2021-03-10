@@ -1,4 +1,3 @@
-# Multiplatform sample
 
 This sample based on the [multiplatform documentation](https://github.com/h0tk3y/k-new-mpp-samples/blob/master/README.md).
 If you have questions about the structure or how it works take a look at the documentation there.
